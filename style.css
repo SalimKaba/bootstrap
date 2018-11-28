@@ -1,0 +1,38 @@
+
+#bodycontact{
+    background-image: url("zee.jpeg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+    background-position: center;
+    background-size: cover;
+  }
+
+#bodyrestaurants{
+  background-image: url("berg2.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+  background-position: center;
+  background-size: auto;
+  }
+
+  #bodystart{
+
+    background-repeat: no-repeat, repeat;
+    background-color: #999966;
+    background-position: center;
+    background-size: auto;
+    }
+
+.menukaart{
+  width: 100%;
+  height: auto;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("tafel1.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
